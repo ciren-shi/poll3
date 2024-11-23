@@ -1,4 +1,4 @@
-<!-- vote.html -->
+<!--vote.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
